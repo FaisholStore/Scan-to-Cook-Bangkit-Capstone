@@ -4,7 +4,7 @@ Hello guys!! , we are the CH2-PS342 group from Bangkit Academy 2023 Batch 2.
 We will introduce the project we are working on with the theme of **Education, Learning, and Personal Development**.
 
 # Scan to Cook : Culinary Companion
-** Capstone Project Product-Based Bangkit 2023**,
+**Capstone Project Product-Based Bangkit 2023**,
 Through image recognition technology, "Scan to Cook" empowers users to explore new recipes in a simple and innovative way, making the cooking experience more enjoyable and reducing the hassle of meal planning. This concept combines technology with gastronomy, promising a more efficient and enjoyable cooking journey.
 
 # Member Grup 
