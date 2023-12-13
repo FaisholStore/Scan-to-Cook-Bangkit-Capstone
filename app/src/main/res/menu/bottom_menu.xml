@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:icon="@drawable/group_1"
+      android:title="@string/home" />
+   <item
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:icon="@drawable/baseline_camera_24"
+      android:title="@string/camera" />
+   <item
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:icon="@drawable/group_3"
+      android:title="@string/setting" />
+</menu>
