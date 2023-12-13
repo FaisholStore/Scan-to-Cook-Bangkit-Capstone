@@ -1,0 +1,22 @@
+<resources>
+   <string name="app_name">Capstone Project</string>
+   <string name="pantry_pal">PANTRY PALL</string>
+   <string name="version_0_0">VERSION 0_1</string>
+
+
+   <!-- strings.xml -->
+   <string name="good_morning">
+   Good Morning 👋🏼,
+   What do you want to cook today?
+   </string>
+   <string name="categoryrecomended">CategoryReceipt</string>
+   <string name="Salad">SALAD</string>
+   <string name="home">Home</string>
+   <string name="setting">Setting</string>
+   <string name="camera">Camera</string>
+   <string name="roti_bakar_edi">Roti Bakar Edi</string>
+   <string name="_8_menit">8 Menit</string>
+   <string name="food_material">Food Material</string>
+   <string name="button">button</string>
+   <string name="detail_receipt">Detail Receipt</string>
+</resources>
